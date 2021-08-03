@@ -38,8 +38,8 @@
 
 ![screenshot](https://raw.githubusercontent.com/AshwinKumar-V/404NotFound/main/.github/images/Screenshot.jpg)
 
-Hey there devs, this was my first project at devChallenges.io to build a responsive website. It was realy interesting as i got to use flexbox for the first time. This really improved the CSS of this project compared to using float and positions. But I'm sure the CSS can be improved furthur once I learn more new features.
-You can checkout my demo at https://ashwinkumar-v.github.io/404NotFound/.
+Hey there devs! This was my first project at devChallenges.io to build a responsive website. This was really interesting as I got to use flexbox for the first time. This really improved the CSS of this project compared to using float and positions.
+You can checkout my demo at [here](https://ashwinkumar-v.github.io/404NotFound).
 
 ### Built With
 
@@ -54,13 +54,7 @@ You can checkout my demo at https://ashwinkumar-v.github.io/404NotFound/.
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-
 ## Contact
 
 - GitHub [@AshwinKumar-V](https://github.com/AshwinKumar-V)
-- LinkedIn[Ashwin Kumar V](https://www.linkedin.com/in/ashwin-kumar-v/)
+- LinkedIn [Ashwin Kumar V](https://www.linkedin.com/in/ashwin-kumar-v/)
