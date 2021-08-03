@@ -29,7 +29,7 @@ header{
     line-height: 25px;
     letter-spacing: -0.08em;
     color: #333333;
-    font-family: Inconsolata;
+    font-family: 'Inconsolata';
 }
 
 footer{
@@ -38,7 +38,7 @@ footer{
     font-size: 14px;
     line-height: 17px;
     color: #BDBDBD;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     align-self: center;
 }
 
@@ -62,7 +62,7 @@ footer{
     .content{
         margin: 2%;
         padding:3%;
-        font-family: SpaceMono;
+        font-family: 'SpaceMono';
         letter-spacing: -0.035em;
         flex:1.2;
     }
