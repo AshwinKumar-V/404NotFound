@@ -30,7 +30,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -39,7 +38,7 @@
 ![screenshot](https://raw.githubusercontent.com/AshwinKumar-V/404NotFound/main/.github/images/Screenshot.jpg)
 
 Hey there devs! This was my first project at devChallenges.io to build a responsive website. This was really interesting as I got to use flexbox for the first time. This really improved the CSS of this project compared to using float and positions.
-You can checkout my demo at [here](https://ashwinkumar-v.github.io/404NotFound).
+You can checkout my demo [here](https://ashwinkumar-v.github.io/404NotFound).
 
 ### Built With
 
