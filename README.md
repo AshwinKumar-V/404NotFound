@@ -44,8 +44,8 @@ You can checkout my demo [here](https://ashwinkumar-v.github.io/404NotFound).
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML5]
-- [CSS3]
+- HTML5
+- CSS3
 
 ## Features
 
